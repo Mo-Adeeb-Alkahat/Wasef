@@ -15,7 +15,7 @@ based on the flickr8k arabic dataset
 improving the dataset by translating the[flickr30k data](https://github.com/BryanPlummer/flickr30k_entities)  
 
 ## Acknowledgements
-the text data was provided thanks to [ObeidaElJundi](https://github.com/ObeidaElJundi)
+the text data was provided by [ObeidaElJundi](https://github.com/ObeidaElJundi)
 
 
 
